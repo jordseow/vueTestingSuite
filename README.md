@@ -21,7 +21,7 @@ Vue Testing Suite enables a user to create an AWS Lambda function with Vue testi
 ## Deployment
 This repository supports auto-deployment of the lambda function on every push to this project using GitHub Actions.
 ### Prerequisite -
-1. Create an AWS S3 bucket with permissions to access objects publically.
+1. Create an AWS S3 bucket with permissions to access objects publically. (changes by me)
 
    Here's an example S3 bucket with the required permissions -
    ![S3 bucket policy](./docs/Bucket-policy.png)
